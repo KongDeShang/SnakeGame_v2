@@ -13,19 +13,25 @@
     <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="Platform"/>
     <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"/>
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome"/>
-    <img src="https://img.shields.io/github/stars/yourname/SnakeGame_v2?style=social" alt="Stars"/>
   </p>
 
   <br>
 
-  <!-- Screenshot Area - Add your own screenshots here -->
+  <!-- Demo GIF -->
   <p>
-    <em>(Screenshots / Demo GIF — add your gameplay recording here!)</em>
+    <img src="screenshots/demo.gif" width="640" alt="Gameplay Demo"/>
   </p>
   <br>
 </div>
 
 ---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/gameplay1.png" width="48%" alt="Gameplay Screenshot 1"/>
+  <img src="screenshots/gameplay2.png" width="48%" alt="Gameplay Screenshot 2"/>
+</div>
 
 ## ✨ Features
 
@@ -105,7 +111,7 @@ Open a terminal and run:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/SnakeGame_v2.git
+git clone https://github.com/KongDeShang/SnakeGame_v2.git
 cd SnakeGame_v2
 
 # 2️⃣ Create a virtual environment (recommended)
@@ -383,8 +389,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
   <h3>⭐ If you like this project, please give it a star! ⭐</h3>
   <p>
-    <a href="https://github.com/yourusername/SnakeGame_v2/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/SnakeGame_v2?style=for-the-badge&logo=github" alt="stars"/>
+    <a href="https://github.com/KongDeShang/SnakeGame_v2/stargazers">
+      <img src="https://img.shields.io/github/stars/KongDeShang/SnakeGame_v2?style=for-the-badge&logo=github" alt="stars"/>
     </a>
   </p>
   <p>
@@ -392,7 +398,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     ·
     <a href="../../issues">Request Feature</a>
     ·
-    <a href="https://github.com/yourusername">Follow Me</a>
+    <a href="https://github.com/KongDeShang">Follow Me</a>
   </p>
   <p>
     Made with ❤️ and 🐍
