@@ -11,7 +11,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python 3.8+"/>
     <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="Platform"/>
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"/>
+    <img src="https://img.shields.io/badge/license-Custom-blue" alt="License"/>
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome"/>
   </p>
 
@@ -254,7 +254,7 @@ SnakeGame_v2/
 ├── .gitignore                # Git ignore rules
 ├── README.md                 # This file
 ├── CONTRIBUTING.md           # Contribution guide
-├── LICENSE                   # MIT License
+├── LICENSE                   # Custom License (non-commercial, attribution)
 │
 ├── donut.png                 # Food image asset (PNG)
 ├── hand_landmarker.task      # Hand landmark model (~8 MB)
@@ -374,7 +374,15 @@ Check out [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is **NOT** open source in the traditional sense.
+
+**✅ Free for personal/educational use**
+**❌ Commercial use prohibited**
+**📝 Attribution required** — you must credit the author when using or modifying this software.
+
+See the [LICENSE](LICENSE) file for full terms.
+
+如果使用本项目的代码或修改版本，请保留原作者署名并链接回本仓库。
 
 ---
 

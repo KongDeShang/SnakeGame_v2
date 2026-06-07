@@ -1,3 +1,10 @@
+# ──────────────────────────────────────────────
+#  🐍 Neon Snake Game — MediaPipe Compatibility Shim
+#  Author: KongDeShang
+#  GitHub: https://github.com/KongDeShang/SnakeGame_v2
+#  License: Custom — Non-commercial + Attribution required
+# ──────────────────────────────────────────────
+
 """
 MediaPipe 兼容性补丁
 

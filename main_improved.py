@@ -1,3 +1,11 @@
+# ──────────────────────────────────────────────
+#  🐍 Neon Snake Game — Hand Gesture Control
+#  Author: KongDeShang
+#  GitHub: https://github.com/KongDeShang/SnakeGame_v2
+#  License: Custom — Non-commercial + Attribution required
+#  ── 个人/学习使用免费 · 禁止商用 · 转载须署名 ──
+# ──────────────────────────────────────────────
+
 """
 SnakeGame v2 — 改进版 (Enhanced)
 ==================================
@@ -1427,7 +1435,7 @@ def main() -> None:
         img = game.update(img, head)
         img = game._apply_crt_filter(img)          # CRT 扫描线后处理
 
-        cv2.imshow("Snake Game", img)
+        cv2.imshow("Neon Snake v4 by KongDeShang", img)
         key = cv2.waitKey(1)
 
         if key in (ord('r'), ord('R')):

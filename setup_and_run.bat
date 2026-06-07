@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title 🐍 Neon Snake — Setup & Run
+title 🐍 Neon Snake by KongDeShang — Setup & Run
 
 echo ================================================
 echo   🐍 Neon Snake — Hand Gesture Control Game
