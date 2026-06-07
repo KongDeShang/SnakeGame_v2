@@ -66,36 +66,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> **Tip:** Add your own gameplay screenshots here! Take a screenshot during play and put it in a `screenshots/` folder.
->
-> ```
-> screenshots/
-> ├── gameplay.png
-> ├── bonus_food.png
-> ├── game_over.png
-> └── theme_inferno.png
-> ```
-
-<pre>
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   NEON                Score  42          FPS  60    │
-│                       Level  8                      │
-│                       High   100                    │
-│                                                     │
-│            🐍  ← snake moves here                   │
-│                                                     │
-│                ⬟  ← bonus food (+3)                 │
-│                                                     │
-│              🍩  ← regular food                     │
-│                                                     │
-│   ──────────────── Neon Border ──────────────────   │
-└─────────────────────────────────────────────────────┘
-</pre>
-
----
 
 ## 🧰 Prerequisites
 
