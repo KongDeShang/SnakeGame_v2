@@ -1,0 +1,4 @@
+# SnakeGame 抖音自动剪辑器 依赖
+moviepy>=2.0.0
+numpy>=1.19.0
+librosa>=0.9.0          # 可选：BGM 踩点对齐（安装后自动启用）

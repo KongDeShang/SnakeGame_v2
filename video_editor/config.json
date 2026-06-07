@@ -1,0 +1,203 @@
+{
+  "output": {
+    "file": "output/snake_game_douyin.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+
+  "bgm": {
+    "file": "bgm/bgm.mp3",
+    "volume": 0.35,
+    "fade_in": 1.0,
+    "fade_out": 2.0
+  },
+
+  "segments": [
+    {
+      "file": "videos/01_hook.mp4",
+      "text": "🔥 还在用键盘玩贪吃蛇？",
+      "text_style": {
+        "fontsize": 72,
+        "color": "#FFD700",
+        "stroke_color": "black",
+        "stroke_width": 3,
+        "position": ["center", "center"],
+        "animation": "fade_in"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": null
+    },
+    {
+      "file": "videos/02_gameplay.mp4",
+      "text": "伸出食指，隔空控制！",
+      "text_style": {
+        "fontsize": 60,
+        "color": "#00FFC8",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": null
+    },
+    {
+      "file": "videos/03_bonus.mp4",
+      "text": "金色钻石 +3分！🥇",
+      "text_style": {
+        "fontsize": 60,
+        "color": "#FFD700",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": "bonus"
+    },
+    {
+      "file": "videos/04_theme_switch.mp4",
+      "text": "6套霓虹主题，自动换肤 🎨",
+      "text_style": {
+        "fontsize": 60,
+        "color": "#FFB400",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.5,
+      "sfx": null
+    },
+    {
+      "file": "videos/05_snake_closeup.mp4",
+      "text": "流光蛇身 + 外发光，细节拉满 ✨",
+      "text_style": {
+        "fontsize": 55,
+        "color": "#FF66FF",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": null
+    },
+    {
+      "file": "videos/06_code.mp4",
+      "text": "Python + OpenCV + AI，纯代码实现 💻",
+      "text_style": {
+        "fontsize": 52,
+        "color": "#00FF00",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.2,
+      "sfx": null
+    },
+    {
+      "file": "videos/07_speed_up.mp4",
+      "text": "分数越高蛇越快！你能坚持到几分？",
+      "text_style": {
+        "fontsize": 55,
+        "color": "#FF4444",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": "die"
+    },
+    {
+      "file": "videos/08_gameover.mp4",
+      "text": "最高分 54，来挑战！🏆",
+      "text_style": {
+        "fontsize": 60,
+        "color": "#FFD700",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": "gameover"
+    },
+    {
+      "file": "videos/09_restart.mp4",
+      "text": "握拳 → 张开，秒复活！✊→✋",
+      "text_style": {
+        "fontsize": 55,
+        "color": "#FFFFFF",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": null
+    },
+    {
+      "file": "videos/10_folder.mp4",
+      "text": "项目已开源，点我头像获取 🐍",
+      "text_style": {
+        "fontsize": 60,
+        "color": "#00FFC8",
+        "stroke_color": "black",
+        "stroke_width": 2,
+        "position": ["center", "bottom"],
+        "animation": "slide_up"
+      },
+      "transition": "crossfade",
+      "transition_duration": 0.4,
+      "speed": 1.0,
+      "sfx": null
+    }
+  ],
+
+  "end_card": {
+    "enabled": true,
+    "duration": 4.0,
+    "title": "SnakeGame 🐍✨",
+    "subtitle": "关注我，每天一个 Python 项目！",
+    "hashtags": "#贪吃蛇 #手势控制 #Python #黑科技",
+    "action_text": "点赞 ❤️  收藏 ⭐  转发 📲",
+    "bg_color": [10, 10, 30],
+    "text_color": "#FFD700",
+    "subtitle_color": "#AAAAAA"
+  },
+
+  "sound_effects": {
+    "eat": "sfx/eat.wav",
+    "bonus": "sfx/bonus.wav",
+    "die": "sfx/die.wav",
+    "gameover": "sfx/gameover.wav"
+  },
+
+  "crop": {
+    "enabled": true,
+    "method": "center",
+    "target_ratio": "9:16"
+  }
+}
